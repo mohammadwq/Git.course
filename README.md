@@ -1,3 +1,3 @@
-# Git_course
+# Git.Course
 for mohammad school git course
 ## Project Notes
